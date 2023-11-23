@@ -1,10 +1,8 @@
-# What-is-Data-Science---Coursera
+# What-is-Data-Science-Coursera
 A descriptional file of All the data of week 1, Course "What is Data Sciences" in the form of summary. It's a Gem and exploraroty in short time, Acess to big knowledge about Basics of Data Sciences.
 
 
 # **Big Data and Data Mining Lesson Glossary**
-
-Welcome! This glossary contains many of the terms in this lesson. These terms are important for you to recognize when working in the industry, participating in user groups, and participating in other certificate programs.
 
 | Term | Definition | Video where the term is introduced |  |
 | --- | --- | --- | --- |
